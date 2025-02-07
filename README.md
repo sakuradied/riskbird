@@ -19,6 +19,9 @@ options:
 ```
 
 # 例子
-`python riskbird.py "百度公司"  --funder_ratio 95`
-` python riskbird.py "百度公司" --output_file  output.json --funder_ratio 95`
-`python riskbird.py test.txt  --output_file  output.json --funder_ratio 95`
+`python riskbird.py "百度公司"  --funder_ratio 95` 
+
+` python riskbird.py "百度公司" --output_file  output.json --funder_ratio 95` 
+
+`python riskbird.py test.txt  --output_file  output.json --funder_ratio 95` 
+
